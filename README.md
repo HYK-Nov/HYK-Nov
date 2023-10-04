@@ -14,7 +14,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yundori97)](https://velog-readme-stats.vercel.app/api/redirect?name=yundori97)
 
 ## 💻 Tech Stacks 💻
-### Main
+### Frontend
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
@@ -24,12 +24,13 @@
 <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=ffffff"/>
-<br>
+
+### Develop Tools
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff"/>
 
-### Other
+### Others
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Indesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=ffffff"/>
