@@ -11,7 +11,7 @@
 <br/>
 
 ## 📝 Recently Post 📝
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/redirect?name=yundori97&tag=github)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yundori97)](https://velog-readme-stats.vercel.app/api/redirect?name=yundori97)
 
 ## 💻 Tech Stacks 💻
 ### Main
